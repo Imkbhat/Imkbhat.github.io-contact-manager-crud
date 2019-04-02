@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m 'initial commit'
+git remote add origin git@github.com:Imkbhat/contact-manager-crud.git
+git push -u origin master
+git push -f origin master
